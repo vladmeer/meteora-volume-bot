@@ -81,4 +81,9 @@ npm start
 
 ### Please fork to use it and follow me on github.
 
-### If you want more customized app, please contact [@dave](https://t.me/davevasu) in Telegram and [!Myrade](https://discordapp.com/users/197424152603394049) in Discord
+# 👤 Author
+
+### Twitter: [Dieharye](https://x.com/dieharye)   
+https://x.com/dieharye
+### Telegram: [Vladmeer](https://t.me/vladmeer67)   
+https://t.me/vladmeer67
